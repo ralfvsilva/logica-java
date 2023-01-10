@@ -1,2 +1,3 @@
-# logica-java
-Repositório de atividades de lógica em Java.
+# Lógica de programação em Java.
+
+- Atividades de lógica.
