@@ -15,12 +15,16 @@ public class Exercicio02 {
                 System.out.println("O número " + num + " é par e positivo.");
             } else if (num < 0){
                 System.out.println("O número " + num + " é par e negativo.");
+            } else {
+                System.out.println("O numero " + num + " + é par.");
             }
         } else {
             if (num > 0) {
                 System.out.println("O número " + num + " é impar e positivo.");
             } else if (num < 0){
                 System.out.println("O número " + num + " é impar e negativo.");
+            } else {
+                System.out.println("O numero " + num + " + é par.");
             }
         }
 
